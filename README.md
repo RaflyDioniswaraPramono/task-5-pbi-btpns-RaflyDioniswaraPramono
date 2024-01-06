@@ -42,7 +42,6 @@ Here are the steps that can help you
 1. Then turn on the Apache and MySQL button.
 1. Create database and give it name **db_btpns_final_task**
 1. After that open your VS Code, then open the folder that has been cloned from this repository.
-1. Create .env file, then type **SECRET_KEY = secret**. Because I didn't push my .env file to github just for best practice, so you can create your own .env file. My secret key is not only **secret** but I use a string generator. 
 1. After that you can open terminal from your VS Code, then start type **go run main.go**
 1. The API is working and you can use it.
 
